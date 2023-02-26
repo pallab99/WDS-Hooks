@@ -6,7 +6,7 @@ function App() {
       {/* <UseState /> */}
       <UseEffects></UseEffects>
     </div>
-  );
+  )
 }
 
 export default App;
